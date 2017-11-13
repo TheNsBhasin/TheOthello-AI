@@ -10,7 +10,7 @@ Basically, there are two sided chips (also called discs) on a board. One side is
 ## AI
 Alpha–beta pruning is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree. It is an adversarial search algorithm used commonly for machine playing of two-player games (Tic-tac-toe, Chess, Go, etc.).
 
-## [How to Play?]
+## How to Play?
 [Read Me](https://www.wikihow.com/Play-Othello)
 
 ## Screenshots
